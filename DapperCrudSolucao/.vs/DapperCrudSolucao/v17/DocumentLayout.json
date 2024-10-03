@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leomi\\source\\repos\\DapperCrudSolucao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BC1A95-730E-4B97-9F68-A4EA5406EC1F}|DapperCrud\\DapperCrud.csproj|c:\\users\\leomi\\source\\repos\\dappercrudsolucao\\dappercrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BC1A95-730E-4B97-9F68-A4EA5406EC1F}|DapperCrud\\DapperCrud.csproj|solutionrelative:dappercrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leomi\\source\\repos\\DapperCrudSolucao\\DapperCrud\\Program.cs",
+              "RelativeDocumentMoniker": "DapperCrud\\Program.cs",
+              "ToolTip": "C:\\Users\\leomi\\source\\repos\\DapperCrudSolucao\\DapperCrud\\Program.cs*",
+              "RelativeToolTip": "DapperCrud\\Program.cs*",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBQAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:29:03.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
